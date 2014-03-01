@@ -1,3 +1,6 @@
 [submodule "child"]
 	path = child
 	url = git@github.com:moogleshoogle2/child.git
+[submodule "git-repo"]
+	path = git-repo
+	url = git@bitbucket.org:kennethendfinger/git-repo.git
